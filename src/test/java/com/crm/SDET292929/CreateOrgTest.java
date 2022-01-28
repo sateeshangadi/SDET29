@@ -7,5 +7,8 @@ public class CreateOrgTest {
 	public void createorgTest(){
 		System.out.println("its regression test");
 	}
-
+   @Test
+   public void aaa(){
+	   System.out.println("one more regression");
+   }
 }

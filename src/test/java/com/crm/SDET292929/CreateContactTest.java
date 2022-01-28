@@ -11,6 +11,12 @@ public class CreateContactTest {
 	@Test
 	public void organdcontacat(){
 		System.out.println("its one more smoke");
+		System.out.println("its again smoke");
+	}
+	@Test
+	public void bbb(){
+		
+		System.out.println("smokeee");
 	}
 
 }
